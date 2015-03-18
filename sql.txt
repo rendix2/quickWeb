@@ -1,0 +1,469 @@
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 89 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_ids' in 'field list'
+Line: 85 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_admin' in 'field list'
+Line: 85 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_level' in 'field list'
+Line: 124 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1054 error text: Unknown column 'user_last_slogin' in 'field list'
+Line: 168 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1048 error text: Column 'user_mail' cannot be null
+Line: 168 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1048 error text: Column 'user_mail' cannot be null
+Line: 169 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1048 error text: Column 'user_mail' cannot be null
+Line: 179 file: /home/users/xpy/vsichni-chytry.com/web/z/class/class_Users.php error number: 1048 error text: Column 'user_mail' cannot be null
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_TABLE' doesn't exist;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_TABLE' doesn't exist;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_TABLE' doesn't exist;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_readings' ar
+			ON a' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_readings' ar
+			ON a' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_readings' ar
+			ON a' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_readings' ar
+			ON a' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_readings' ar
+			ON a' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles': a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading': ar
+			ON ' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles': a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading': ar
+			ON ' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles': a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading': ar
+			ON ' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles': a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading': ar
+			ON ' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'ARTICLES_READING_TABLE' ar
+		' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''articles' a
+			FORCE INDEX(PRIMARY)
+			LEFT JOIN 'articles_reading' ar
+			ON ar' at line 2;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.articles_reading' doesn't exist;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.articles_reading' doesn't exist;
+Line: 47; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1327; Error text: Undeclared variable: ARTICLES_PAGE_LIMIT;
+Line: 47; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_READING_TABLE' doesn't exist;
+Line: 47; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_READING_TABLE' doesn't exist;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Comments.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1;
+Line: __LINLE__; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_READING_TABLE' doesn't exist;
+Line: 126; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_CATS_TABLE' doesn't exist;
+Line: 129; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_PAGES' doesn't exist;
+Line: 44; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdminHome.php; Error number: 1327; Error text: Undeclared variable: ARTICLES_ADMIN_HOME_PAGE_LIMIT;
+Line: 44; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdminHome.php; Error number: 1327; Error text: Undeclared variable: ARTICLES_ADMIN_HOME_PAGE_LIMIT;
+Line: 81; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdminHome.php; Error number: ; Error text: ;
+Line: 81; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdminHome.php; Error number: ; Error text: ;
+Line: 21; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1146; Error text: Table 'cvutblog.CATS_TABLE' doesn't exist;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 76; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 32; Error number: 1054; Error text: Unknown column 'a.last_edit' in 'field list';
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_url' cannot be null;
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_title' cannot be null;
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_title' cannot be null;
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_title' cannot be null;
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_title' cannot be null;
+Line: 96; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1048; Error text: Column 'article_title' cannot be null;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 200; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 144; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 7; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdminHome.php; Error number: 1146; Error text: Table 'cvutblog.PAGES_TABLE' doesn't exist;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.article_date, a.article_edit_count, a.article_last_edit, a.article_comments_ena' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 41; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.article_date, a.article_edit_count, a.article_last_edit, a.article_comments_ena' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 96; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a
+			FORCE INDEX(PRIMARY)
+			WHERE a.article_active = 1
+			ORDER BY a.article_id' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 96; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			WHERE a.article_active = 1
+			ORDER B' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 96; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			WHERE a.article_active = 1
+			ORDER B' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: ; File: ; Error number: 1054; Error text: Unknown column 'cat' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 121; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 123; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+			FORCE INDEX(PRIMARY)
+			JOIN articles_cats c
+			ON c.cat_id =' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 44; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 43; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 43; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 43; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: 51; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_FileUpload.php; Error number: ; Error text: ;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Articles.php; File: 39; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECTa.article_id, a.article_url, a.article_title, a.article_text, a.article_co' at line 1;
+Line: 75; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1054; Error text: Unknown column 'cat_name' in 'order clause';
+Line: 57; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1048; Error text: Column 'page_file' cannot be null;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: ; Error text: ;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: ; Error text: ;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1146; Error text: Table 'cvutblog.PAGES_CATS_TABLE' doesn't exist;
+Line: 22; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1146; Error text: Table 'cvutblog.PAGES_CATS_TABLE' doesn't exist;
+Line: 93; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: ; Error text: ;
+Line: 93; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Test', page_static = '', page_file = '' WHERE page_id = '8'' at line 1;
+Line: 93; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Test', page_static = '0', page_file = '' WHERE page_id = '8'' at line 1;
+Line: 93; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Test', page_static = '0', page_file = '' WHERE page_id = '8'' at line 1;
+Line: 29; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_CategoriesAdmin.php; Error number: 1062; Error text: Duplicate entry 'adwadw' for key 'cat_name';
+Line: 34; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_CategoriesAdmin.php; Error number: 1062; Error text: Duplicate entry 'adwadw' for key 'cat_name';
+Line: 34; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_CategoriesAdmin.php; Error number: 1062; Error text: Duplicate entry 'adwadw' for key 'cat_name';
+Line: 90; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_PagesAdmin.php; Error number: ; Error text: ;
+Line: 71; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 38;
+Line: 72; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_READING_TABLE' doesn't exist;
+Line: 72; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'a.edit_count' in 'field list';
+Line: 100; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1234; Error text: Incorrect usage/placement of 'SQL_CALC_FOUND_ROWS';
+Line: 429; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_SETINGS' doesn't exist;
+Line: 429; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: 1146; Error text: Table 'cvutblog.ARTICLES_SETINGS_TABLE' doesn't exist;
+Line: 289; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Users.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_regdate FROM users WHERE user_id = NULL LIMIT 1' at line 1;
+Line: 289; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Users.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_regdate FROM users WHERE user_id = '2' LIMIT 1' at line 1;
+Line: 295; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Users.php; Error number: 1054; Error text: Unknown column 'article_time' in 'field list';
+Line: 78; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'a.article_date' in 'field list';
+Line: 298; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Users.php; Error number: 1054; Error text: Unknown column 'user_lastlogin' in 'field list';
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; File: 450; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+				FORCE INDEX(PRIMARY)
+				#WHERE a.article_active = 1
+				ORD' at line 5;
+Line: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; File: 448; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM articles a
+				ORDER BY article_id DESC
+				#LIMIT 5
+				#OFFSET 0' at line 5;
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASCC' at line 1;
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1054; Error text: Unknown column 'c.article_id' in 'on clause';
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1054; Error text: Unknown column 'c.article_id' in 'on clause';
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1054; Error text: Unknown column 'c.article_id' in 'on clause';
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) AS count FROM articles_cats ac LEFT JOIN articles a ON ac.article_id = a.arti' at line 1;
+Line: 16; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Categories.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) AS count FROM articles_cats ac LEFT JOIN articles a ON ac.article_id = a.arti' at line 1;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'a.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'a.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'c.page_id' in 'where clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'c.page_id' in 'where clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'c.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1146; Error text: Table 'cvutblog.PAGES_CATS' doesn't exist;
+Line: 29; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 29; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 29; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 25; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 25; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 25; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 25; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 25; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'p.page_id' in 'on clause';
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'pc.cat_id' in 'on clause';
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'pc.cat_id' in 'on clause';
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON ac.article_id = a.article_id
+					AND pc.cat_id = ac.cat_id
+					AND a.articl' at line 9;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.cat_id' in 'on clause';
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.cat_id' in 'on clause';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT pages_cats pc
+				ON ac.cat_id = pc.cat_id
+				WHERE pc.page_id = p.pag' at line 9;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT pages_cats pc
+				ON ac.cat_id = pc.cat_id
+				WHERE pc.page_id = p.pag' at line 9;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT pages_cats pc
+				ON ac.cat_id = pc.cat_id
+				WHERE pc.page_id = p.pag' at line 9;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT pages_cats pc
+				ON ac.cat_id = pc.cat_id
+				WHERE pc.page_id = p.pag' at line 9;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.artic' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTTER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.arti' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(a.article_id) AS count2
+			        FROM articles a
+				LEFT JOIN articles_' at line 4;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COUNT(a.article_id) AS count2
+			        FROM articles a
+				LEFT JOIN articles_' at line 4;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.article' at line 6;
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 26; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'ac.article_id' in 'group statement';
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 28; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE pc.page_id = p.page_id
+
+				) AS articles_cats_pages
+				FROM pages p  ORD' at line 12;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1242; Error text: Subquery returns more than 1 row;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.artic' at line 6;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.artic' at line 6;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.artic' at line 6;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.artic' at line 6;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1064; Error text: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INER JOIN articles_cats ac
+				ON ac.article_id = a.article_id
+					AND a.articl' at line 6;
+Line: 339; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_ArticlesAdmin.php; Error number: ; Error text: ;
+Line: 27; File: /home/users/xpy/vsichni-chytry.com/sub/new/class/class_Pages.php; Error number: 1054; Error text: Unknown column 'articles_pages' in 'field list';

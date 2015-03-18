@@ -1,0 +1,21 @@
+vyřešit getování a setování superglobals
+
+
+/*
+$fu = new FileUpload($db, $smarty, array(1,2), array(
+
+	'image/jpeg' => 'jfif',
+	'image/pjpeg' => 'jfif',
+	'image/jpeg' => 'jpe',
+	'image/pjpeg' => 'jpe',
+	'image/jpeg' => 'jpeg',
+	'image/pjpeg' => 'jpeg',
+	'image/jpeg' => 'jpg',
+	'image/pjpeg' => 'jpg'), true);
+
+$fu->fileUploadDoIt();
+
+*/
+
+
+

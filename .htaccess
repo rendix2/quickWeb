@@ -1,0 +1,15 @@
+#Roman's code BEGIN
+Header set X-UA-Compatible "IE=edge,chrome=1"
+#Roman's code END
+
+RewriteEngine On
+RewriteBase /
+
+#Options -Indexes
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule !\.(css|js|icon|zip|rar|png|jpg|gif|pdf)$ index.php [L]
+
+#id clanku
+RewriteRule    ^article-([0-9a-z-_]*)-([0-9]*)$   ./index.php?article_id=$2

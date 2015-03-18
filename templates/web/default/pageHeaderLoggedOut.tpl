@@ -1,0 +1,1 @@
+<div align="center"> || <a href="./">{$lang.home}</a> || <a href ="./?akce=register">{$lang.register}</a> || <a href="./index.php?akce=cats">{$lang.cats}</a> || <a href="./page.php">{$lang.pages}</a> || <a href ="./?akce=login">{$lang.log_in}</a> || </div>
