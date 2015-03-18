@@ -7,7 +7,7 @@
  * Testers: Petra Homzová
  *
  *
- *
+ *d
  */
 $start = microtime(true);
 include('autoloader.php');
