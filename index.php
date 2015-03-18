@@ -14,7 +14,7 @@ $start = microtime(true);
 include('autoloader.php');
 
 $smarty = new TemplateUsers($_SESSION['user']['template_name']);
-$db = new db('localhost', 'xpy', '19723698', 'cvutblog', $smarty);
+$db = new db('server', 'name', 'pass', 'db', $smarty);
 $language = new Language($_SERVER['REDIRECT_GEOIP_COUNTRY_CODE']);
 $users = new Users($db, $language, $smarty);
 
