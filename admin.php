@@ -11,7 +11,7 @@ catch ( LanguageException $e )
 }
 
 $smarty = new TemplateAdmin();
-$db = new db('localhost', 'xpy', '19723698', 'cvutblog', $smarty);
+$db = new db('server', 'name', 'pass', 'db', $smarty);
 $admin = new Admin($db, $language, $smarty);
 
 //$smarty->display('pageHeader.tpl');
