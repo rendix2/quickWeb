@@ -3,7 +3,7 @@ $start = microtime(true);
 include('autoloader.php');
 
 $smarty = new TemplateUsers($_SESSION['user']['template_name']);
-$db = new db('localhost', 'xpy', '19723698', 'cvutblog', $smarty);
+$db = new db('server', 'user', 'pass', 'db', $smarty);
 $language = new Language($_SERVER['REDIRECT_GEOIP_COUNTRY_CODE']);
 
 my_page_header($smarty, array('user_name' => $_SESSION['user']['user_name']), $language->LanguageGetPack(), $language->languageGetMetaPack());
