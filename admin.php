@@ -1,5 +1,5 @@
 <?php
-$start = microtime(true);
+$start = microtime(true);//
 include('autoloader.php');
 
 try {
