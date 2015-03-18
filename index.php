@@ -1,4 +1,4 @@
-﻿<?php
+﻿﻿<?php
 
 /*
  * Author PHP of code: Tomas Babicky
