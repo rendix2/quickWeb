@@ -1,5 +1,5 @@
 <?php
-$start = microtime(true);//
+$start = microtime(true);//we
 include('autoloader.php');
 
 $smarty = new TemplateUsers($_SESSION['user']['template_name']);
