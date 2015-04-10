@@ -8,8 +8,8 @@
 
 class Logger {
 
-    private const PATH = './logs/';
-    private const EXT = '.log';
+    const PATH = './logs/';
+    const EXT = '.log';
 
     private $type, $message, $fileName;
 
