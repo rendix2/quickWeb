@@ -8,30 +8,27 @@
 final class LanguageAdmin extends Language {
     private $langName, $langAdmin, $metaAdmin;
 
-    /**
-     * @param $langName
-     * @throws LanguageException
-     */
+    const PATH = './lang/';
+    const PREFIX_NAME = '/langAdmin';
+    const PREFIX_NAME_META = '/langAdminMeta';
+    const EXT = '.ini';
+
     public function __construct($langName) {
         if ( DEBUG )
             cs($this, $this);
 
         $this->langName = $langName;
 
-        if ( !file_exists('./lang/'.$this->langName.'/langAdmin'.$this->langName.'.ini') )
+        if ( !file_exists(self::PATH.$this->langName.self::PREFIX_NAME.$this->langName.self::EXT) )
             throw new LanguageException('Neexistující jazykový balíček administrace: <strong>'.$langName.'</strong>.');
 
-        $this->langAdmin = parse_ini_file('./lang/'.$this->langName.'/langAdmin'.$this->langName.'.ini');
-
-        if ( !file_exists('./lang/'.$this->langName.'/langAdminMeta'.$this->langName.'.ini') )
+        if ( !file_exists(self::PATH.$this->langName.self::PREFIX_NAME_META.$this->langName.self::EXT) )
             throw new LanguageException('Neexistující jazykový balíček meta dat admiostrace: <strong>'.$langName.'</strong>.');
 
-        $this->metaAdmin = parse_ini_file('./lang/'.$this->langName.'/langAdminMeta'.$this->langName.'.ini');
+        $this->langAdmin = parse_ini_file(self::PATH.$this->langName.self::PREFIX_META.$this->langName.self::EXT);
+        $this->metaAdmin = parse_ini_file(self::PATH.$this->langName.self::PREFIX_NAME_META.$this->langName.self::EXT);
     }
 
-    /**
-     *
-     */
     public function __destruct() {
         if ( DEBUG )
             echo 'Destruktor: '.get_class($this).'<br>';
@@ -42,16 +39,10 @@ final class LanguageAdmin extends Language {
         $this->metaAdmin = null;
     }
 
-    /**
-     * @return array
-     */
     public function languageGetPack() {
         return $this->langAdmin;
     }
 
-    /**
-     * @return array
-     */
     public function languageGetMetaPack() {
         return $this->metaAdmin;
     }
