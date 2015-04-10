@@ -17,10 +17,15 @@ final class FormValidate{
     }
 
     private function checkEmailAdress($string){
+        static $atom = '[-a-z0-9!#$%&\'*+/=?^_`{|}~]';
+        static $domain = '[a-z0-9]([-a-z0-9]{0,61}[a-z0-9])';
+
+        return preg_match(":^$atom+(\\.$atom+)*@($domain?\\.)+$domain\$:i", $string);
     }
 
+    // +xxx xxx xxx xxx
     private function checkPhoneNumber($string){
-        return preg_match($string, '#^+[0-9]{12}$#');
+        return preg_match($string, '#^\+[0-9]{3,3} [0-9]{3,3} [0-9]{3,3} [0-9]{3,3}$#');
     }
 
     private function checkMinLength($string, $minLength){
