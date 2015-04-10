@@ -1,12 +1,5 @@
 <?php
 
-/**
- * @param Smarty $smarty
- * @param array $data
- * @param array $lang
- * @param array $meta
- * @return bool
- */
 function my_page_header(Smarty $smarty, array $data, array $lang, array $meta, $admin = false) {
     $smarty->assign('ph', $data);
     $smarty->assign('meta', $meta);
@@ -28,11 +21,6 @@ function my_page_header(Smarty $smarty, array $data, array $lang, array $meta, $
     return true;
 }
 
-/**
- * @param Smarty $smarty
- * @param array $data
- * @param array $lang
- */
 function my_page_footer(Smarty $smarty, array $data, array $lang) {
     $smarty->assign('s_ulogged', $_SESSION['user']['user_logged']);
     $smarty->assign('s_uauthor', $_SESSION['user']['user_author']);
@@ -47,12 +35,6 @@ function my_page_footer(Smarty $smarty, array $data, array $lang) {
 }
 
 // print unbuffered error
-/**
- * @param Smarty $smarty
- * @param $message
- * @param string $type
- * @return bool
- */
 function p(Smarty $smarty, $message, $type = 'b') {
     $smarty->assign('message', $message);
 
@@ -66,15 +48,6 @@ function p(Smarty $smarty, $message, $type = 'b') {
 return true;		
 }
 
-/**
- * @param $min
- * @param $max
- * @param $type
- * @param $string
- * @param $name
- * @return bool
- * @throws CheckInputException
- */
 function checkInput($min, $max, $type, $string, $name){
     if ( mb_strlen($string) < $min )
         throw new CheckInputException('Vstup: <strong>'.$name.'</strong> je kratký.');
@@ -89,11 +62,6 @@ function checkInput($min, $max, $type, $string, $name){
 }
 
 // add message to buffer
-/**
- * @param $message
- * @param string $type
- * @return bool
- */
 function am($message, $type = 'b') {
 	if ( $type == 'b' )
 	$_SESSION['buff_mess']['bad'][] = $message;
@@ -106,10 +74,6 @@ function am($message, $type = 'b') {
 }
 
 // show buffered message
-/**
- * @param Smarty $smarty
- * @return bool
- */
 function sm(Smarty $smarty) {
 	if ( count($_SESSION['buff_mess']['good']) ) {
     	$smarty->assign('good', $_SESSION['buff_mess']['good']);
@@ -140,10 +104,6 @@ function my_date($time) {
 
 // http://www.abclinuxu.cz/poradna/programovani/show/302447
 // withour for loop, using log()
-/**
- * @param $bytes
- * @return string
- */
 function fsize_unit_convert($bytes) {
 static $units = array(
         array(  ' B', 1),
@@ -178,10 +138,6 @@ return array( fsize_unit_convert(memory_get_peak_usage(0)), fsize_unit_convert(m
 }
 
 // http://stackoverflow.com/questions/6846445/get-byte-value-from-shorthand-byte-notation-in-php-ini
-/**
- * @param $val
- * @return int|string
- */
 function return_bytes($val) {
 $val = trim($val);
 $last = strtolower($val[strlen($val)-1]);
@@ -199,22 +155,16 @@ $last = strtolower($val[strlen($val)-1]);
 return $val;
 }
 
-/**
- * @param Language $language
- * @param $o
- * @return string
- */
 function cs(Language $language, $o){
     return sprintf('%s: <strong>%s</strong><br>', $language->languageGetPack()['construct'], get_class($o));
 }
 
-/**
- * @param Language $language
- * @param $o
- * @return string
- */
 function ds(Language $language, $o){
     return sprintf('%s: <strong>%s</strong><br>', $language->languageGetPack()['destruct'], get_class($o));
+}
+
+fucntion escape($string){
+    return htmlentities($string, ENT_QUOTES, 'UTF-8');
 }
 
 ?>
