@@ -1,10 +1,5 @@
 <?php
 
-//namespace qw;
-
-/**
- * Class Language
- */
 class Language implements ILanguage {
     private $langName, $lang, $meta, $allPackages;
 
@@ -13,10 +8,6 @@ class Language implements ILanguage {
     const PREFIX_NAME_META = '/langMeta';
     const EXT = '.ini';
 
-    /**
-     * @param $langName
-     * @throws LanguageException
-     */
     public function __construct($langName) {
         if ( DEBUG )
             cs($this, $this);
@@ -40,10 +31,6 @@ class Language implements ILanguage {
         $this->meta = parse_ini_file(self::PATH.$this->langName.self::PREFIX_NAME_META.$this->langName.self::EXT);
     }
 
-    /**
-     *
-     */
-
     public function __destruct() {
         if ( DEBUG )
             echo 'Destruktor: '.get_class($this).'<br>';
@@ -53,31 +40,19 @@ class Language implements ILanguage {
         $this->meta = null;
     }
 
-    /**
-     * @return array|string
-     */
     public function languageGetPack() {
     return $this->lang;
     }
 
-    /**
-     * @return array|string
-     */
     public function languageGetMetaPack(){
         return $this->meta;
     }
 
-    /**
-     *
-     */
     public function languageSetAllPackages() {
         foreach ( glob(self::PATH.'*') as $v )
             $this->allPackages[] = $v;
     }
 
-    /**
-     * @return array|string
-     */
     public function  languageGetAllPackages() {
         return $this->allPackages;
     }
