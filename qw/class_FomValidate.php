@@ -42,7 +42,7 @@ final class FormValidate{
     }
 
     private function isNumber($string){
-        return preg_match('#^[0-9]*$#', $string);
+        return is_numeric($string);
     }
 
     private function isLowerCase($string){
