@@ -1,10 +1,5 @@
 <?php
 
-//namespace qw;
-
-/**
- * Class LanguageAdmin
- */
 final class LanguageAdmin extends Language {
     private $langName, $langAdmin, $metaAdmin;
 
