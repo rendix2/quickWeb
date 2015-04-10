@@ -16,6 +16,7 @@ final class FormValidate{
         $this->smarty = $smarty;
     }
 
+    // by Jakub Vrana
     private function checkEmailAdress($string){
         static $atom = '[-a-z0-9!#$%&\'*+/=?^_`{|}~]';
         static $domain = '[a-z0-9]([-a-z0-9]{0,61}[a-z0-9])';
@@ -35,4 +36,21 @@ final class FormValidate{
     private function checkMaxLength($string, $maxLength){
         return mb_strlen($string) < $maxLength;
     }
+
+    // if future =  true, we'll pass date from future
+    private function checkDate($day, $month, $year, $future = false){
+    }
+
+    private function isNumber($string){
+        return preg_match('#^[0-9]*$#', $string);
+    }
+
+    private function isLowerCase($string){
+        return preg_match('#^[a-z]*$#', $string);
+    }
+
+    private function isUpperCase($string){
+        return preg_match('#^[A-Z]*$#', $string);
+    }
+
 }
