@@ -31,13 +31,25 @@ class Logger {
         return true;
     }
 
+    private function isReadable(){
+        if ( !file_exists($this->fileName) )
+            throw new LogException('Neexistující soubor chyb.');
+
+        if ( !is_readable($this->fileName) )
+            throw new LogException('Ze souboru chyb nelze číst.');
+
+        return true;
+    }
+
     public function log(){
         if ( $this->isWritable() )
             file_put_contents(self::PATH.$this->type-self::EXT, $this->message);
     }
 
 
-
-
-
+    public function show(){
+        if ( $this->isReadable() ){
+            return file_get_contents($this->fileName);
+        }
+    }
 }
