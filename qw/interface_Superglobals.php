@@ -1,36 +1,11 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: xpy
- * Date: 9.4.15
- * Time: 22:56
- */
 
 interface Superglobals{
+    public static function exists($name);
 
-    /**
-     * @param $name
-     * @return mixed
-     */
-    public function exists($name);
+    public static function get($name);
 
-    /**
-     * @param $name
-     * @return mixed
-     */
-    public function get($name);
+    public static  function put($name, $value, $expire = null);
 
-    /**
-     * @param $name
-     * @param $value
-     * @return mixed
-     */
-    public function put($name, $value);
-
-    /**
-     * @param $name
-     * @return mixed
-     */
-    public function delete($name);
-
+    public static  function delete($name);
 }
