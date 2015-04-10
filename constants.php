@@ -2,12 +2,14 @@
 
 define('DEBUG', 0);
 define('USING_NAME_SPACEC', 0);
+define('USING_TRIGGERS', 0);
 
 define('WEB_ADRESS', 'http://new.vsichni-chytry.com');
 define('WEB_MAIL', 'rendix2@seznam.cz');
 
 // tables
 define('ARTICLES_TABLE', 'articles');
+define('ARTICLES_DELETE_TABLE', 'article_deleted');
 define('ARTICLES_CATS_TABLE', 'articles_cats');
 define('ARTICLES_COMMENTS_TABLE', 'articles_comments');
 define('ARTICLES_EDIT_TABLE', 'articles_edit');
