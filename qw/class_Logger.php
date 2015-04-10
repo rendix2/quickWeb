@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: xpy
- * Date: 10.4.15
- * Time: 16:00
- */
 
 class Logger {
 
