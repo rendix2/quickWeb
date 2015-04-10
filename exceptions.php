@@ -77,4 +77,11 @@ final class CheckInputException extends Exception {
         $this->messsage = null;
     }
 }
+
+final class LogException extends Exception {
+    public function __destruct() {
+        $this->messsage = null;
+    }
+}
+
 ?>
