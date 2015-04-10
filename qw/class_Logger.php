@@ -46,7 +46,6 @@ class Logger {
             file_put_contents(self::PATH.$this->type-self::EXT, $this->message);
     }
 
-
     public function show(){
         if ( $this->isReadable() ){
             return file_get_contents($this->fileName);
