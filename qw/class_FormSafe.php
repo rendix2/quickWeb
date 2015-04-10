@@ -5,7 +5,7 @@
 /**
  * Class SafeForm
  */
-final class SafeForm {
+final class FormSafe {
     private $templateName, $arrayName;
     private $earlyTime, $lateTime, $maxSubmitTries, $time, $name;
 
