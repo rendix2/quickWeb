@@ -26,7 +26,7 @@ final class FormValidate{
 
     // +xxx xxx xxx xxx
     private function checkPhoneNumber($string){
-        return preg_match($string, '#^\+[0-9]{3,3} [0-9]{3,3} [0-9]{3,3} [0-9]{3,3}$#');
+        return preg_match('#^\+[0-9]{3,3} [0-9]{3,3} [0-9]{3,3} [0-9]{3,3}$#',$string);
     }
 
     private function checkMinLength($string, $minLength){
